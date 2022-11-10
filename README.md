@@ -1,4 +1,4 @@
-# Let't me introduce myself! ㅋㅋ
+# Let't me introduce myself!
 
 BlockChain, Back-End Developer
 
