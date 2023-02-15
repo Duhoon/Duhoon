@@ -1,9 +1,23 @@
-# Let't me introduce myself!
+👋 Welcome to 41Rock's Github!
+Exaclty, I am developer for Blockchain & DApp.
 
-BlockChain, Back-End Developer
+I am studying in Codestates BEB(Blockchain Engineer Bootcamp) 7th Course.
 
-But I like Front-End Dvelop also :)
+Interesting about
+Aptos Move, Ethereum Solidity, and Rust. I will learn those.
 
-Please Contact Me By
-  
-- eclip6@naver.com
+🛠 Tech Stack
+Language
+TypeScript JavaScript Python Solidity
+
+Markup Language
+HTML5 CSS3
+
+Front-End
+React
+
+Back-End
+Express.js
+
+DB
+MySQL MongoDB
