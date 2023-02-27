@@ -1,3 +1,18 @@
+# ⚠️ Notice 
+Hey, guy! Thank you for visiting here.
+
+But Actually, I have moved Github account to new One.
+
+This will be depreceated.
+
+Here is new GitHub Account URL
+
+- https://github.com/412ock
+
+You can find out my New Projects in new account above.
+
+Thanks!
+
 ## 👋 Welcome to Duhoon's Github!
 
 Exaclty, I am developer for Blockchain & DApp.
@@ -7,8 +22,7 @@ I am studying in Codestates BEB(Blockchain Engineer Bootcamp) 7th Course.
 
 - Interesting about
 
-Aptos Move, Ethereum Solidity, and Rust. I will learn those.
-
+Ethereum Solidity, and Rust. I will learn those.
 
 ## 🛠 Tech Stack
 
