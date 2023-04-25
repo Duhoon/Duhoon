@@ -1,15 +1,13 @@
-# ⚠️ Notice 
+# Notice 
 Hey, guy! Thank you for visiting here.
 
-But Actually, I have moved Github account to new One.
+I show you new Account.
 
-This will be depreceated.
+This github account will be uploaded well-orgnazied project.
 
 Here is new GitHub Account URL
 
 - https://github.com/412ock
-
-You can find out my New Projects in new account above.
 
 Thanks!
 
