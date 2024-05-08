@@ -13,10 +13,11 @@ Thanks!
 
 ## 👋 Welcome to Duhoon's Github!
 
-Exaclty, I am developer for Blockchain & DApp.
+Exactly, I am developer for Blockchain & DApp.
 
-I am studying in Codestates BEB(Blockchain Engineer Bootcamp) 7th Course.
+I was studied in Codestates BEB(Blockchain Engineer Bootcamp) 7th Course.
 
+I am winner in 2023 Glitch Hackathon & 2023 ETH Seoul.
 
 - Interesting about
 
