@@ -1,17 +1,18 @@
 ## 👋 Welcome to Duhoon's Github!
-Exactly, I am developer for Blockchain & DApp.
+Exactly, I am a full-stack web developer.
 
-I was studied in Codestates BEB(Blockchain Engineer Bootcamp) 7th Course.
+I studied in Codestates BEB(Blockchain Engineer Bootcamp) 7th Course.
+And I studied in AI Advanced Web Programming at Human ICT Edu.
 
 I am winner in 2023 Glitch Hackathon & 2023 ETH Seoul.
 
-I worked in a blockchain company, Algorith Capital. 
 I implemented a aribitrage bot that trade crypto assets between centralized exchanges and decentralized exchanges.
 For implementing this bot, I use LogsFilter supported in EVM and search block by this bot to find some transactions I need.
 In other work, I developed a logic for calculate statistics within several term like daily, monthly and yearly, using massive blockchain data.
 
 - Interesting about
 
+LLM, DeepLearning and Python
 Ethereum Solidity, and Go.
 I am solving algorihtm problem with Golang in Leetcode. It's so exciting!
 
